@@ -10,8 +10,9 @@ N/A
 ## Usage
 
 This webpage is used to randomly generate a password. 
+![img](assets/photos/password-generator.html.png)
 
-![img] (./assets/photos/password-generator.html.png)
+
 
 ## Credits
 Starter code from:
