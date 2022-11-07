@@ -12,6 +12,8 @@ N/A
 This webpage is used to randomly generate a password. 
 ![img](assets/photos/password-generator.html.png)
 
+https://tropical9.github.io/javascript-password-generator/
+
 
 
 ## Credits
