@@ -55,24 +55,6 @@ if (!questionLowerCase && !questionUpperCase && !questionNumber && !questionSpec
     } else if 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 var noSelections = [];
 
 for (var i = 0; i <  questionLength; i++) {
