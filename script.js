@@ -60,10 +60,9 @@ function generatePassword(length, lowercase, uppercase, numeric, special) {
 
     var generatedPassword = document.getElementById("password");
   
-    generatedPassword.append(password);
+    generatedPassword.value = password;
 
   }  
   // Add click event listener to generate password button
   var generateButton = document.getElementById("generate");
   generateButton.addEventListener("click", generatePasswordPrompt);
-  
